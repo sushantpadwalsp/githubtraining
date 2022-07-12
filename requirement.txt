@@ -1,3 +1,8 @@
 This is chat application
 emoji
 color
+
+
+Payment Option
+send 
+Recieved
